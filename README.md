@@ -2,7 +2,7 @@
 
 
 **Bateria** 
-é um projeto criado com o objetivo de praticar e aprimorar habilidades em HTML, CSS e JavaScript. Ele simula uma simples lista de tarefas, focando em boas práticas de codificação.
+é um projeto criado com o objetivo de praticar e aprimorar habilidades em HTML, CSS e JavaScript. Ele simula uma simples Bateria, focando em boas práticas de codificação.
 
 ## 🔍 Visão Geral
 
